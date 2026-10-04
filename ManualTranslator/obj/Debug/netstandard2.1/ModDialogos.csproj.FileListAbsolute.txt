@@ -1,0 +1,16 @@
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\bin\Debug\netstandard2.1\ModDialogos.deps.json
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\bin\Debug\netstandard2.1\ModDialogos.dll
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\bin\Debug\netstandard2.1\ModDialogos.pdb
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\obj\Debug\netstandard2.1\ModDialogos.csproj.AssemblyReference.cache
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\obj\Debug\netstandard2.1\ModDialogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\obj\Debug\netstandard2.1\ModDialogos.AssemblyInfoInputs.cache
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\obj\Debug\netstandard2.1\ModDialogos.AssemblyInfo.cs
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\obj\Debug\netstandard2.1\ModDialogos.csproj.CoreCompileInputs.cache
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\obj\Debug\netstandard2.1\ModDialogos.csproj.CopyComplete
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\obj\Debug\netstandard2.1\ModDialogos.dll
+C:\Users\Eubriel\Documents\MCDickie\InfiniteLives\ModDialogos\SourceCode\obj\Debug\netstandard2.1\ModDialogos.pdb
